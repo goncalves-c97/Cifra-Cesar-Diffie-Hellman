@@ -1,3 +1,10 @@
+# Desenvolvido por:
+
+# Carlos Adonias   - 082190002
+# Carlos Henrique  - 082190011
+# Gabriel Teixeira - 082190038
+# Johnny Messias   - 082190027
+
 from socket import *
 
 #Métodos de criptografia e decriptografia

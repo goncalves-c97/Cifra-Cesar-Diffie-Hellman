@@ -1,3 +1,10 @@
+# Desenvolvido por:
+
+# Carlos Adonias   - 082190002
+# Carlos Henrique  - 082190011
+# Gabriel Teixeira - 082190038
+# Johnny Messias   - 082190027
+
 #endereço Ethernet   IPv4 10.1.70.28
 #endereço Ethernet 2 IPv4 192.168.56.1
 #endereço Ethernet 3 IPv4 169.254.250.216
