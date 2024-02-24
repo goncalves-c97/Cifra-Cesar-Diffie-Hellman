@@ -1,4 +1,4 @@
-Atividade desenvolvida na disciplina de Tópicos Avançados em Rede, minitrada pelo professor Fábio Cabrini.
+Atividade desenvolvida na disciplina de Tópicos Avançados em Rede, ministrada pelo professor Fábio Cabrini.
 
 Desenvolvido por:
 
